@@ -48,3 +48,14 @@ export default tseslint.config({
   },
 })
 ```
+
+
+<h1>This is complete setup for setting up vite react app for testing</h1>
+
+<h4>This is configuration for vite react using typescript, jest, msw@1.3.3</h4>
+
+<p>download the zip file and run following commands in order</p>
+
+<ul>
+  <li>npm i</li>
+</ul>
